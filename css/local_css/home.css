@@ -1,0 +1,23 @@
+header {
+  background-color: greenyellow;
+}
+.container h1 {
+  text-align: center;
+}
+#main img {
+  width: 100vw;
+  height: 95vh;
+}
+
+.container img {
+  width: auto;
+  height: 80vh;
+  max-width: 98vw;
+}
+footer {
+  margin: 10px;
+  text-align: center;
+  color: darkblue;
+  background-color: bisque;
+  border: 1px solid yellowgreen;
+}
